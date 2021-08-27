@@ -4,7 +4,7 @@
   "description": "Keep track of your DeviantArt notifications and messages in (almost) real time",
   "applications": {
     "gecko": {
-      "id": "deviant-notify@seinopsys",
+      "id": "{5cc28e7e-ae1f-4835-be60-ea3fe22ab007}",
       "strict_min_version": "54.0"
     }
   },
